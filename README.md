@@ -1,4 +1,6 @@
-
+<div align="center">
+<img align="center" height="70cm" width="115" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm52MHJ4NHNlOWx4aHM2dnF5dWF1c3Zhemd3bmV3cDQ3aXRvYXphZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjgccj3kdQXKl8Ekil/giphy.gif"  />
+</div>
 
 <h1 align="center">Hi 👋, I'm Shamas Nisar</h1>
 <h3 align="center">Android Developer in progress</h3>
@@ -12,8 +14,6 @@
 - ⚡ Fun fact **I want to start a tech startup**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img align="right" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGptNWFxeHV3cXYwNm0weGVud2l5M2VtM2NpazR6cGlyNzVicDg1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIv3NuURRxgJO/giphy.gif"  />
 
 <h3 align="center">Languages & Tools</h3>
 <div align="center">
