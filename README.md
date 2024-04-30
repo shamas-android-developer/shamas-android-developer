@@ -74,11 +74,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamas-android-developer&langs_count=8&theme=transparent" alt=shamas-android-developer />
+<img align="left" height="120em" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamas-android-developer&langs_count=8&theme=transparent" alt=shamas-android-developer />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamas-android-developer&theme=tokyonight-duo" alt="shamas-android-developer" /></p>
+<p><img align="center" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamas-android-developer&theme=tokyonight-duo" alt="shamas-android-developer" /></p>
 
-<div align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shamas-android-developer&show_icons=true&locale=en&theme=tokyonight" alt="shamas-android-developer" /></div>
+<div align="center"><img align="center" height="120cm" src="https://github-readme-stats.vercel.app/api?username=shamas-android-developer&show_icons=true&locale=en&theme=tokyonight" alt="shamas-android-developer" /></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
