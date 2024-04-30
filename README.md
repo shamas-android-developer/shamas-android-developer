@@ -9,9 +9,6 @@
 - 🔭 I’m currently learning **Android Development**
 - 🌱 I’m currently learning **Kotlin | Jetpack Compose | MySQL | React Native**
 - 💬 Ask me about **React Native | Kotlin**
-- 📫 How to reach me **shamsnisar04@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/shamas-android-developer?tab=repositories**
-- 📄 Know about my experiences **https://drive.google.com/file/d/18Z5bPHAR8S5FVQEiWa8D_pnP6m0QLmsQ/view?usp=drivesdk**
 - ⚡ Fun fact **I want to start a tech startup**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
