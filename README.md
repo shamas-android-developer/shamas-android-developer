@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Shamas Nisar</h1>
 <h3 align="center">Android Developer in progress</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamas-android-developer&label=Profile%20views&color=0e75b6&style=flat" alt="shamas-android-developer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamas-nisar&label=Profile%20views&color=0e75b6&style=flat" alt="shamas-android-developer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamas-android-developer&theme=darkhub" alt="shamas-android-developer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamas-nisar&theme=darkhub" alt="shamas-android-developer" /></a> </p>
 
 - 🔭 I’m currently learning **Android Development**
 - 🌱 I’m currently learning **Kotlin | Jetpack Compose | MySQL | React Native**
@@ -71,28 +71,28 @@
 
 <h3 align="left">Stars</h3>
 <div align="center">
-<img align="center" height="120em" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamas-android-developer&langs_count=8&theme=transparent" alt=shamas-android-developer />
+<img align="center" height="120em" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamas-nisar&langs_count=8&theme=transparent" alt=shamas-nisar />
 
-<img align="center" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamas-android-developer&theme=tokyonight-duo" alt="shamas-android-developer" />
+<img align="center" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamas-nisar&theme=tokyonight-duo" alt="shamas-nisar" />
 </div>
 
-<div align="center"><img align="center" height="120cm" src="https://github-readme-stats.vercel.app/api?username=shamas-android-developer&show_icons=true&locale=en&theme=tokyonight" alt="shamas-android-developer" /></div>
+<div align="center"><img align="center" height="120cm" src="https://github-readme-stats.vercel.app/api?username=shamas-nisar&show_icons=true&locale=en&theme=tokyonight" alt="shamas-nisar" /></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/shamas-android-developer">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamas-android-developer&theme=aura_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamas-android-developer&theme=ayu_mirage" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamas-android-developer&theme=ayu_mirage" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamas-android-developer&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamas-android-developer&theme=codeSTACKr" height="180em" />
+<a href="https://github.com/shamas-nisar">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamas-nisar&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamas-nisar&theme=ayu_mirage" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamas-nisar&theme=ayu_mirage" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamas-nisar&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamas-nisar&theme=codeSTACKr" height="180em" />
 </div>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shamas-android-developer&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shamas-nisar&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
